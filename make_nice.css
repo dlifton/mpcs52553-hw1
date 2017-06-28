@@ -1,0 +1,18 @@
+/* Your style rules go here: */
+body {
+    margin : 275px;
+    margin-top: 50px;
+}
+
+.note {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 20px;
+    background-color: #00FFFF;
+}
+
+.important {
+    background-color: yellow;
+    display:inline-block;
+}
